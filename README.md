@@ -11,7 +11,7 @@ Made for the syntax preferences of uottawa's engineering department
 
 Supports the following components:
 
-- Resistors, Inductors, Capacitors, Diodes, Transformers
+- Resistors, Inductors, Capacitors, Diodes (including Zener Diode), Transformers
 - Sources (Independant current, DC/AC voltage, Dependant)
 - Switches
 - Ground
